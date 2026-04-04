@@ -1,4 +1,4 @@
-# ML Systems Lab
+# ML Systems Accelerator Lab
 
 A collection of ML systems projects exploring the **software stack behind modern AI accelerators**, including graph compilation, kernel generation, and accelerator runtime simulation.
 
